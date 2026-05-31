@@ -57,7 +57,7 @@ The goal of SYSGO is to create a lightweight, fast, and user-friendly terminal e
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   [git clone https://github.com/Michalsonix/SYSGO.git]
    ```
 
 2. Navigate to the project directory:
@@ -83,6 +83,3 @@ The goal of SYSGO is to create a lightweight, fast, and user-friendly terminal e
 **SYSGO Prototype 1.0**
 
 
-## Version
-
-**SYSGO Prototype 1.0**
